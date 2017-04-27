@@ -3,3 +3,4 @@ This project is Wildfire Detection with Xbee and C#
 
 # Library 
 - https://github.com/jefffhaynes/XBee
+- https://github.com/jefffhaynes/BinarySerializer
