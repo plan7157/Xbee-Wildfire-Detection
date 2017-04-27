@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adhoc_Project_8031", "Adhoc_Project_8031\Adhoc_Project_8031.csproj", "{0A76784B-BD0F-449D-99C9-385ADB9A3F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XBee", "D:\XBee-master\XBee\XBee.csproj", "{EFEC26F4-5399-4803-979B-DA5DCD1D2709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A76784B-BD0F-449D-99C9-385ADB9A3F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A76784B-BD0F-449D-99C9-385ADB9A3F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A76784B-BD0F-449D-99C9-385ADB9A3F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A76784B-BD0F-449D-99C9-385ADB9A3F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEC26F4-5399-4803-979B-DA5DCD1D2709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC26F4-5399-4803-979B-DA5DCD1D2709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC26F4-5399-4803-979B-DA5DCD1D2709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC26F4-5399-4803-979B-DA5DCD1D2709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
